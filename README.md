@@ -1,6 +1,3 @@
----
-use_math: true
----
 
 ## Welcome to GitHub Pages
 
